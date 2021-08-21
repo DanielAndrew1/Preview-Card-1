@@ -1,4 +1,4 @@
-[Live Site](https://danielandrew1.github.io/Preview-Card-1/)
+Live Site URL : [https://danielandrew1.github.io/Preview-Card-1/](https://danielandrew1.github.io/Preview-Card-1/)
 
 # Frontend Mentor - 3-column preview card component solution
 
