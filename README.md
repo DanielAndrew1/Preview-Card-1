@@ -1,4 +1,4 @@
-Live Site URL : [https://danielandrew1.github.io/Preview-Card-1/](https://danielandrew1.github.io/Preview-Card-1/)
+Live Site URL : [https://dxnielXndrew.github.io/Preview-Card-1/](https://dxnielXndrew.github.io/Preview-Card-1/)
 
 # Frontend Mentor - 3-column preview card component solution
 
@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://danielandrew1.github.io/Preview-Card-1/](https://danielandrew1.github.io/Preview-Card-1/)
+- Live Site URL: [https://dxnielXndrew.github.io/Preview-Card-1/](https://dxnielXndrew.github.io/Preview-Card-1/)
 
 ## My process
 
@@ -48,7 +48,6 @@ I'm going to continue learning Bootstrap so that I can implement it in projects 
 
 - Personal Website - [realdma.tech](https://www.realdma.tech)
 - Frontend Mentor - [Daniel Andrew](https://www.frontendmentor.io/profile/DanielAndrew1)
-- Twitter - [@yourusername](https://www.twitter.com/danny21769)
-- GitHub - [DanielAndrew1](https://www.github.io/danielandrew1/)
-- Instagram - [dxniel_xndrew](https://www.instagram/dxniel_xndrew/)
-- 
+- Twitter - [DxnielXndrew](https://www.twitter.com/DxnielXndrew)
+- GitHub - [DxnielXndrew](https://github.com/DxnielXndrew)
+- Instagram - [dxniel_xndrew](https://www.instagram.com/dxniel_xndrew/)
